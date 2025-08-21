@@ -1,13 +1,25 @@
 {
-  "generated_at": "2025-08-21T06:28:21.179Z",
+  "generated_at": "2025-08-21T06:32:30.378Z",
   "public_repos": 2,
   "total_stars": 0,
   "total_forks": 0,
   "followers": 0,
   "languages_top": [
     [
+      "Verilog",
+      "Hardware Design (RISC-V Pipeline, FPGA)"
+    ],
+    [
+      "C++",
+      "Embedded Systems (Safety Helmet, MCU Programming)"
+    ],
+    [
+      "Python",
+      "Automation Scripts, Data Analysis"
+    ],
+    [
       "JavaScript",
-      1
+      "Web Development (Denture Design Studio)"
     ]
   ]
 }

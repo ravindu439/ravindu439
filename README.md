@@ -82,7 +82,15 @@ Currently I'm honing deeper skills in processor design, hardware/software co-des
 | **⭐ Total Stars Earned** | `0` |
 | **🍴 Total Forks** | `0` |
 | **👥 Followers** | `0` |
-| **📝 Top Languages** | `JavaScript(1)` |
+
+### � Primary Technologies & Expertise
+
+| 🛠️ Technology | 🎯 Application Area |
+|---------------|---------------------|
+| **Verilog** | Hardware Design (RISC-V Pipeline, FPGA) |
+| **C++** | Embedded Systems (Safety Helmet, MCU Programming) |
+| **Python** | Automation Scripts, Data Analysis |
+| **JavaScript** | Web Development (Denture Design Studio) |
 
 </div>
 
@@ -126,5 +134,5 @@ Email • LinkedIn • Portfolio (links above)
 ---
 
 <p align="center">
-  <!--TIMESTAMP-->Last auto update: 2025-08-21 06:28:21 UTC
+  <!--TIMESTAMP-->Last auto update: 2025-08-21 06:32:30 UTC
 </p>

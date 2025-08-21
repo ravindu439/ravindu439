@@ -34,6 +34,15 @@ Your profile is already working with GitHub's automatic token (limited permissio
 ✅ **Dynamic tech stack display**  
 ✅ **Repository and language metrics**  
 ✅ **Professional presentation**  
+✅ **Accurate language expertise display**  
+
+## 💡 Why Languages Show Your Real Skills:
+
+Your "Primary Technologies & Expertise" section shows your actual skills and project applications rather than just repository counts. This is because:
+
+- **Organization Repositories**: Your major projects (Safe Plus, Denture Design Studio, RV32IM Pipeline) are in organization accounts (cepdnaclk)
+- **Real Expertise**: The display reflects your actual work with Verilog (hardware design), C++ (embedded systems), Python (automation), etc.
+- **Comprehensive View**: Shows application areas rather than just counting repository languages  
 
 ## 🔧 Tech Stack Auto-Generation:
 

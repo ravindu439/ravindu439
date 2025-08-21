@@ -49,16 +49,28 @@ async function main() {
   const totalStars = publicRepos.reduce((s, r) => s + r.stargazers_count, 0);
   const totalForks = publicRepos.reduce((s, r) => s + r.forks_count, 0);
 
-  // Language aggregation
+  // Language aggregation with enhanced detection
   const langTotals = {};
   for (const r of publicRepos) {
     if (r.language) {
       langTotals[r.language] = (langTotals[r.language] || 0) + 1;
     }
   }
-  const langSorted = Object.entries(langTotals)
-    .sort((a,b) => b[1]-a[1])
-    .slice(0, 6);
+  
+  // Define your actual primary languages based on your projects and expertise
+  const actualLanguages = [
+    { name: 'Verilog', repos: 'Hardware Design (RISC-V Pipeline, FPGA)' },
+    { name: 'C++', repos: 'Embedded Systems (Safety Helmet, MCU Programming)' },
+    { name: 'Python', repos: 'Automation Scripts, Data Analysis' },
+    { name: 'JavaScript', repos: 'Web Development (Denture Design Studio)' },
+    { name: 'HTML/CSS', repos: 'Frontend Development' },
+    { name: 'Assembly', repos: 'Low-level Programming (RISC-V)' }
+  ];
+  
+  // Use actual languages if GitHub data is limited
+  const langSorted = Object.keys(langTotals).length > 2 ? 
+    Object.entries(langTotals).sort((a,b) => b[1]-a[1]).slice(0, 6) :
+    actualLanguages.slice(0, 4).map(lang => [lang.name, lang.repos]);
 
   // Activity (recent events) - Keep only latest 8 events
   const events = await fetchJSON(`https://api.github.com/users/${USER}/events/public?per_page=30`, headers);
@@ -149,7 +161,12 @@ async function main() {
 | **⭐ Total Stars Earned** | \`${totalStars}\` |
 | **🍴 Total Forks** | \`${totalForks}\` |
 | **👥 Followers** | \`${user.followers}\` |
-| **📝 Top Languages** | ${langSorted.map(([l,c]) => `\`${l}(${c})\``).join(', ') || '`Analyzing...`'} |
+
+### � Primary Technologies & Expertise
+
+| 🛠️ Technology | 🎯 Application Area |
+|---------------|---------------------|
+${langSorted.map(([tech, area]) => `| **${tech}** | ${area} |`).join('\n')}
 
 </div>
 
