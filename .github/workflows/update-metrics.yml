@@ -31,6 +31,7 @@ jobs:
         
     - name: Update metrics
       env:
+        PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       run: |

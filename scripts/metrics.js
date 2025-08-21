@@ -23,9 +23,13 @@ async function main() {
     'User-Agent': 'ravindu439-profile-updater'
   };
   
-  // Add auth header only if token is available
-  if (process.env.GITHUB_TOKEN && process.env.GITHUB_TOKEN !== 'dummy') {
-    headers['Authorization'] = `Bearer ${process.env.GITHUB_TOKEN}`;
+  // Add auth header - check for custom token first, then default GitHub token
+  const token = process.env.PERSONAL_GITHUB_TOKEN || process.env.GITHUB_TOKEN;
+  if (token && token !== 'dummy') {
+    headers['Authorization'] = `Bearer ${token}`;
+    console.log('Using authenticated API access');
+  } else {
+    console.log('Using public API access (limited rate limits)');
   }
 
   // Basic profile

@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Real-Time Metrics (Optional Enhancement)
 
-Your profile is already working with public data, but for enhanced metrics and activity tracking, you can set up a GitHub Personal Access Token.
+Your profile is already working with GitHub's automatic token (limited permissions), but for enhanced metrics and activity tracking, you can set up a Personal Access Token for better API access.
 
 ### Steps to Enable Full Automation:
 
@@ -17,7 +17,7 @@ Your profile is already working with public data, but for enhanced metrics and a
    - Go to your repository: `https://github.com/ravindu439/ravindu439`
    - Settings → Secrets and variables → Actions
    - Click "New repository secret"
-   - Name: `GITHUB_TOKEN`
+   - Name: `PERSONAL_GITHUB_TOKEN` (Note: Cannot start with GITHUB_)
    - Value: Your personal access token
    - Save
 
