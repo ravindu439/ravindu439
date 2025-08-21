@@ -1,5 +1,25 @@
 <!-- AUTO-GENERATED SECTIONS: Metrics + Activity injected by GitHub Actions -->
-<!-- Profile Header -->
+<!-- Prof### ✍️ Latest Articles / Notes
+<!--BLOG-START-->
+<div align="center">
+
+**📝 Technical Content & Learning Journey**
+
+*🚀 Coming Soon: RISC-V Pipeline Design Deep Dive*  
+*⚡ Embedded Safety Systems Architecture Guide*  
+*🔧 Hardware/Software Co-Design Best Practices*
+
+</div>
+<!--BLOG-END-->
+
+### 🧩 Philosophy
+<div align="center">
+
+> *"Engineering reliability isn't an afterthought—it's the architecture of attention to detail."*
+
+**Building systems that are safe, efficient, and insightful—bridging hardware realities with software agility.**
+
+</div>der -->
 <h1 align="center">Hi 👋, I'm Ravindu</h1>
 <p align="center">
   <strong>Embedded Systems & Computer Architecture | 4th-Year Computer Engineering Student</strong>
@@ -52,16 +72,44 @@ Currently I'm honing deeper skills in processor design, hardware/software co-des
 ### 📊 Dynamic Metrics
 <!--METRICS-START-->
 
-**Public Repos:** 2  
-**Total Stars:** 0 • **Total Forks:** 0  
-**Followers:** 0  
-**Top Languages (by repo count):** JavaScript(1)
+<div align="center">
+
+### 📈 GitHub Statistics
+
+| 📊 Metric | 📈 Value |
+|-----------|----------|
+| **📁 Public Repositories** | `2` |
+| **⭐ Total Stars Earned** | `0` |
+| **🍴 Total Forks** | `0` |
+| **👥 Followers** | `0` |
+| **📝 Top Languages** | `JavaScript(1)` |
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravindu439&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindu439&theme=github-compact&hide_border=true&bg_color=0d1117" height="300" />
+</div>
 
 <!--METRICS-END-->
 
 ### 🔄 Recent Activity
 <!--ACTIVITY-START-->
-_No recent public activity_
+<div align="center">
+
+**🚀 Recent GitHub Activity**
+
+*📝 Working on exciting projects... Check back soon!*
+
+</div>
 <!--ACTIVITY-END-->
 
 ### ✍️ Latest Articles / Notes
@@ -78,5 +126,5 @@ Email • LinkedIn • Portfolio (links above)
 ---
 
 <p align="center">
-  <!--TIMESTAMP-->Last auto update: 2025-08-21 06:13:54 UTC
+  <!--TIMESTAMP-->Last auto update: 2025-08-21 06:18:31 UTC
 </p>

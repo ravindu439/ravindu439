@@ -129,15 +129,42 @@ async function main() {
     }
   }
 
-  // Construct metrics markdown
+  // Generate activity calendar and contribution insights
+  const currentYear = new Date().getFullYear();
+  const contributionCalendar = `<div align="center">\n  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindu439&theme=github-compact&hide_border=true&bg_color=0d1117" height="300" />\n</div>`;
+  
+  // Construct metrics markdown with enhanced visual design
   const metricsMD = `
-**Public Repos:** ${publicRepos.length}  
-**Total Stars:** ${totalStars} • **Total Forks:** ${totalForks}  
-**Followers:** ${user.followers}  
-**Top Languages (by repo count):** ${langSorted.map(([l,c]) => `${l}(${c})`).join(', ')}${wakatimeMD}
+<div align="center">
+
+### 📈 GitHub Statistics
+
+| 📊 Metric | 📈 Value |
+|-----------|----------|
+| **📁 Public Repositories** | \`${publicRepos.length}\` |
+| **⭐ Total Stars Earned** | \`${totalStars}\` |
+| **🍴 Total Forks** | \`${totalForks}\` |
+| **👥 Followers** | \`${user.followers}\` |
+| **📝 Top Languages** | ${langSorted.map(([l,c]) => `\`${l}(${c})\``).join(', ') || '`Analyzing...`'} |
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravindu439&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+</div>
+
+${contributionCalendar}${wakatimeMD}
 `;
 
-  const activityMD = filtered.length ? filtered.join('\n') : '_No recent public activity_';
+  const activityMD = filtered.length ? 
+    `<div align="center">\n\n**🚀 Recent GitHub Activity**\n\n</div>\n\n` + 
+    filtered.map(item => `${item} \`${new Date().toLocaleDateString()}\``).join('\n') :
+    `<div align="center">\n\n**🚀 Recent GitHub Activity**\n\n*📝 Working on exciting projects... Check back soon!*\n\n</div>`;
 
   // Update README
   let readme = fs.readFileSync(README_PATH, 'utf8');
