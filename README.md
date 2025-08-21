@@ -67,7 +67,7 @@ I’m a 4th-year Computer Engineering student (University of Peradeniya). Passio
 
 <!--TECH-STACK-START-->
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,linux,git,github,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,verilog,asm,riscv,fpga,xilinx,modelsim,kicad,react,nodejs,platformio,arduino,linux,git,github,vscode,aws,docker" alt="Tech Stack" />
 </p>
 <p><strong>Specializing in:</strong> RISC-V Architecture, Embedded Safety Systems, Hardware/Software Co-Design, Formal Verification</p>
 <!--TECH-STACK-END-->
@@ -93,12 +93,17 @@ flowchart LR
 
 ### 📊 Metrics
 <!--METRICS-START-->
-(Loading dynamic metrics...)
+
+**Public Repos:** 2  
+**Total Stars:** 0 • **Total Forks:** 0  
+**Followers:** 0  
+**Top Languages (by repo count):** JavaScript(1)
+
 <!--METRICS-END-->
 
 ### 🔄 Recent Activity
 <!--ACTIVITY-START-->
-(Recent events will appear here)
+_No recent public activity_
 <!--ACTIVITY-END-->
 
 ### ✍️ Latest Articles / Notes
@@ -115,5 +120,5 @@ Email • LinkedIn • Portfolio (links above)
 ---
 
 <p align="center">
-  <!--TIMESTAMP-->Last auto update: (pending)
+  <!--TIMESTAMP-->Last auto update: 2025-08-21 06:08:42 UTC
 </p>

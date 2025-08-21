@@ -7,9 +7,9 @@ import fs from 'fs';
 import fetch from 'node-fetch';
 
 const USER = 'ravindu439';
-const README_PATH = 'README.md';
-const METRICS_JSON = 'metrics.json';
-const STACK_JSON = 'stack.json';
+const README_PATH = '../README.md';
+const METRICS_JSON = '../metrics.json';
+const STACK_JSON = '../stack.json';
 
 async function fetchJSON(url, headers = {}) {
   const r = await fetch(url, { headers });
@@ -20,8 +20,13 @@ async function fetchJSON(url, headers = {}) {
 async function main() {
   const headers = {
     'Accept': 'application/vnd.github+json',
-    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`
+    'User-Agent': 'ravindu439-profile-updater'
   };
+  
+  // Add auth header only if token is available
+  if (process.env.GITHUB_TOKEN && process.env.GITHUB_TOKEN !== 'dummy') {
+    headers['Authorization'] = `Bearer ${process.env.GITHUB_TOKEN}`;
+  }
 
   // Basic profile
   const user = await fetchJSON(`https://api.github.com/users/${USER}`, headers);
