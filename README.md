@@ -1,15 +1,14 @@
-<!-- AUTO-GENERATED SECTIONS: Metrics + Activity injected by GitHub Actions -->
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Ravindu Lakshan</h1>
 <h3 align="center">🚀 Computer Engineering Undergraduate | Embedded Systems & RISC-V Pipeline Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20Engineer💻;RISC-V%20Pipeline%20Designer⚡;Hardware-Software%20Co-Design🔧;Safety%20Systems%20Developer🛡️&center=true&width=600&height=45&color=00d9ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20Engineer💻;RISC-V%20Pipeline%20Designer⚡;Hardware-Software%20Co-Design🔧;Safety%20Systems%20Developer🛡️&center=true&width=600&height=45">
 </p>
 
 ---
 
-## �‍🎓 About Me
+## 🧑‍🎓 About Me
 
 🎓 I am a **4th-Year Computer Engineering Student** at the **University of Peradeniya**, Sri Lanka.
 
@@ -23,31 +22,73 @@
 
 ---
 
-## 💼 Experiences & Activities
+## 💼 Experiences
 
 - 🔧 **Embedded Systems Developer** - Safety-critical helmet monitoring system
-- 💻 **RISC-V Pipeline Designer** - 5-stage RV32IM implementation with testbench verification  
+- 💻 **RISC-V Pipeline Designer** - 5-stage RV32IM implementation with testbench verification
 - 🌐 **Full-Stack Developer** - Dental education platform with guided workflows
 - 🎯 **Hardware/Software Integration** - Sensor-integrated safety systems
 - 📊 **Performance Analysis** - Waveform analysis and timing optimization
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛡️ [Safe Plus – Smart Safety Helmet](https://github.com/cepdnaclk/e20-3yp-SafePlus) | Real-time hazard detection & emergency alert pipeline for industrial worker safety | Embedded C++, Sensors, Wireless, Edge Computing |
-| 💻 [RV32IM Pipeline Implementation](https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2) | 5-stage RISC-V pipeline with comprehensive testbench verification | Verilog, SystemVerilog, Computer Architecture |
-| 🦷 [Denture Design Studio](https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio) | Interactive learning platform for dental students with guided case workflows | Web Development, React, UX Design |
-| ⚡ [Hardware Debugging Tools] | Custom waveform analysis tools for timing issue detection | Python, Signal Processing, FPGA |
+| Project | Description |
+|--------|-------------|
+| 🛡️ [Safe Plus – Smart Safety Helmet](https://github.com/cepdnaclk/e20-3yp-SafePlus) | Real-time hazard detection & emergency alert pipeline for industrial worker safety |
+| 💻 [RV32IM Pipeline Implementation](https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2) | 5-stage RISC-V pipeline with comprehensive testbench verification |
+| 🦷 [Denture Design Studio](https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio) | Interactive learning platform for dental students with guided case workflows |
+| ⚡ Hardware Debugging Tools | Custom waveform analysis tools for timing issue detection |
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Skills
 
-### 💻 Programming Languages
-- 🔧 **Verilog/SystemVerilog** - Hardware Description & Verification
+- 🔧 Verilog/SystemVerilog / 💻 C/C++ Programming / 🐍 Python
+- Embedded Systems Design
+- 🏗️ Computer Architecture
+- 🧑‍🤝‍🧑 Hardware-Software Co-Design
+
+---
+
+## 📜 Certifications
+
+- ✅ Computer Engineering Student - University of Peradeniya
+
+---
+
+## 💬 Social & Contact
+
+📧 [e20xxx@eng.pdn.ac.lk](mailto:e20xxx@eng.pdn.ac.lk)
+
+🌐 [LinkedIn](https://www.linkedin.com/in/ravindu-lakshan/) | [GitHub](https://github.com/ravindu439)
+🏠 Sri Lanka
+
+---
+
+## � GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu439&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=10" />
+</p>
+
+---
+
+## 🔥 Fun Animations
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+> © 2025 Ravindu Lakshan | Built with ❤️ by me
 - ⚡ **C/C++** - Embedded Systems & Performance-Critical Applications  
 - 🐍 **Python** - Automation Scripts, Data Analysis, Tool Development
 - � **JavaScript/HTML/CSS** - Full-Stack Web Development
