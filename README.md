@@ -1,47 +1,50 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ravindu</h1>
 <p align="center">
-  <strong>Passionate Developer | Open Source Enthusiast | Continuous Learner</strong>
+  <strong>Embedded Systems & Computer Architecture | 4th-Year Computer Engineering Student</strong>
 </p>
 
 <!-- Badges / Quick Links -->
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="https://ravindu439.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat"/></a>
-  <a href="https://github.com/ravindu439?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-informational?style=flat"/></a>
+  <a href="mailto:ravindulakshan.rl2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat" /></a>
+  <a href="https://www.linkedin.com/in/ravindu-lakshan-45bb00278/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="https://ravindu439.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat" /></a>
+  <a href="https://github.com/ravindu439?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-informational?style=flat" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a (your role here) focused on (areas). I love building (what you build) and exploring (interests). Currently learning (topic) and contributing to (open source / community).
+I am a 4th-year Computer Engineering student at the University of Peradeniya (Faculty of Engineering). My academic journey has given me a solid grounding in both theoretical and practical aspects of computing. I’m passionate about exploring cutting-edge technologies, software development, computer architecture, embedded systems, and systematic debugging.  
+Currently I’m honing deeper skills in processor design, hardware/software co-design, and applying embedded intelligence to solve real-world safety and usability problems.
 
-- 🔭 I’m working on: <project or goal>
-- 🌱 I’m learning: <technology>
-- 💬 Ask me about: <topics>
-- 🎯 2025 Goal: <goal>
-- ⚡ Fun fact: <fun fact>
+- 🔭 Current Focus: Embedded systems design & RISC-V microarchitecture exploration  
+- 🧠 Strengths: Hardware/software integration, structured problem-solving, rapid learning  
+- 🌱 Learning Next: Advanced verification flows & performance profiling in Verilog/C++  
+- 💬 Ask me about: Verilog, pipeline design, debugging embedded flows, full-stack prototypes  
+- 🎯 2025 Goal: Ship an open-source reusable embedded safety module + publish a tech write-up  
+- ⚡ Fun Fact: I enjoy “chasing the glitch”—I once traced a tricky timing issue by crafting a custom waveform diff approach.
 
 ---
 
 ### 🛠 Tech & Tools
-<!-- Replace / add icons as needed -->
 <p>
-  <!-- Example icons (you can swap) -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,git,github,docker,linux,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,verilog,html,css,linux,git,github,aws,figma" />
+</p>
+<p>
+  <strong>Also using:</strong> PlatformIO, GitHub Actions, basic cloud deployment workflows
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| Project One | Short description | React, Node | [Repo](#) / [Live](#) |
-| Project Two | Short description | Python | [Repo](#) |
-| Project Three | Short description | Java | [Repo](#) |
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| Safe Plus – Smart Safety Helmet | Real-time monitoring, impact detection & emergency alerts to enhance industrial worker safety | Embedded, Sensors, Wireless, Edge | [Repo](https://github.com/cepdnaclk/e20-3yp-SafePlus) |
+| Denture Design Studio | Interactive learning & self-evaluation platform for dental students with guided case workflows | Web, React (if used), UX | [Repo](https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio) |
+| RV32IM Pipeline (Group 2) | Verilog implementation of a 5-stage RV32IM pipeline + testbench verification | Verilog, CPU Arch | [Repo](https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2) |
 
-<!-- Optionally auto-generated later -->
+<!-- You can extend with more details, images, or auto-generation later -->
 
 ---
 
@@ -56,19 +59,28 @@ I am a (your role here) focused on (areas). I love building (what you build) and
 
 ---
 
+### 🧩 Motivation
+> “Engineering isn’t just solving problems—it’s designing reliability before problems appear.”
+
+I aim to build systems that are safe, efficient, and insightful—bridging the gap between hardware realities and software agility.
+
+---
+
 ### 🌐 Connect
 <p>
-  <a href="mailto:youremail@example.com">Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://twitter.com/your-handle">Twitter</a>
+  <a href="mailto:ravindulakshan.rl2002@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/ravindu-lakshan-45bb00278/">LinkedIn</a>
 </p>
 
 ---
 
-### ✨ Inspiration
-> “Your quote here.”
+### 🔄 (Optional) Automation Ideas
+- Action to refresh a “last updated” timestamp
+- Auto-list recent commits or pinned repos
+- Badge for CI status / embedded builds
 
-<!-- Feel free to add visitor counter -->
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindu439&style=flat&color=blue" />
 </p>
