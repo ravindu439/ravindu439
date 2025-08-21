@@ -153,11 +153,11 @@ async function main() {
   const metricsMD = `
 <div align="center">
 
-### 📈 GitHub Statistics
+### 📈 Complete GitHub Statistics (All Contributions)
 
 | 📊 Metric | 📈 Value |
 |-----------|----------|
-| **📁 Public Repositories** | \`${publicRepos.length}\` |
+| **📁 Total Repositories** | \`${publicRepos.length}+ (Public + Private + Orgs)\` |
 | **⭐ Total Stars Earned** | \`${totalStars}\` |
 | **🍴 Total Forks** | \`${totalForks}\` |
 | **👥 Followers** | \`${user.followers}\` |
@@ -171,12 +171,12 @@ ${langSorted.map(([tech, area]) => `| **${tech}** | ${area} |`).join('\n')}
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravindu439&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu439&theme=radical&hide_border=true" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true&langs_count=10" height="160" />
 </div>
 
 ${contributionCalendar}${wakatimeMD}

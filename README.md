@@ -91,11 +91,11 @@
 
 <div align="center">
 
-### 📈 GitHub Statistics
+### 📈 Complete GitHub Statistics (All Contributions)
 
 | 📊 Metric | 📈 Value |
 |-----------|----------|
-| **📁 Public Repositories** | `2` |
+| **📁 Total Repositories** | `2+ (Public + Private + Orgs)` |
 | **⭐ Total Stars Earned** | `0` |
 | **🍴 Total Forks** | `0` |
 | **👥 Followers** | `0` |
@@ -112,12 +112,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravindu439&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu439&theme=radical&hide_border=true" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true&langs_count=10" height="160" />
 </div>
 
 <div align="center">
@@ -151,5 +151,5 @@ Email • LinkedIn • Portfolio (links above)
 ---
 
 <p align="center">
-  <!--TIMESTAMP-->Last auto update: 2025-08-21 07:03:58 UTC
+  <!--TIMESTAMP-->Last auto update: 2025-08-21 07:11:28 UTC
 </p>

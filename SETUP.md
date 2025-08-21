@@ -10,7 +10,7 @@ Your profile is already working with GitHub's automatic token (limited permissio
    - Go to GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
    - Click "Generate new token (classic)"
    - Set expiration to "No expiration" or your preferred duration
-   - Select scopes: `public_repo`, `read:user`
+   - Select scopes: `repo` (full access), `read:user`, `read:org` (for organization stats)
    - Generate and copy the token
 
 2. **Add Token to Repository Secrets**:
