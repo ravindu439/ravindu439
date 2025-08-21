@@ -88,4 +88,4 @@
 
 ---
 
-> © 2025 Ravindu Lakshan | Built with ❤️ by me
+> © 2025 Ravindu Lakshan | Built by me
