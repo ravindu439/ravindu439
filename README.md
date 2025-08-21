@@ -1,52 +1,69 @@
 <!-- AUTO-GENERATED SECTIONS: Metrics + Activity injected by GitHub Actions -->
-<!-- Prof### ✍️ Latest Articles / Notes
-<!--BLOG-START-->
-<div align="center">
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Ravindu Lakshan</h1>
+<h3 align="center">🚀 Computer Engineering Undergraduate | Embedded Systems & RISC-V Pipeline Design Enthusiast</h3>
 
-**📝 Technical Content & Learning Journey**
-
-*🚀 Coming Soon: RISC-V Pipeline Design Deep Dive*  
-*⚡ Embedded Safety Systems Architecture Guide*  
-*🔧 Hardware/Software Co-Design Best Practices*
-
-</div>
-<!--BLOG-END-->
-
-### 🧩 Philosophy
-<div align="center">
-
-> *"Engineering reliability isn't an afterthought—it's the architecture of attention to detail."*
-
-**Building systems that are safe, efficient, and insightful—bridging hardware realities with software agility.**
-
-</div>der -->
-<h1 align="center">Hi 👋, I'm Ravindu</h1>
 <p align="center">
-  <strong>Embedded Systems & Computer Architecture | 4th-Year Computer Engineering Student</strong>
-</p>
-
-<!-- Badges / Quick Links -->
-<p align="center">
-  <a href="mailto:ravindulakshan.rl2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat" /></a>
-  <a href="https://www.linkedin.com/in/ravindu-lakshan-45bb00278/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" /></a>
-  <a href="https://ravindu439.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat" /></a>
-  <a href="https://github.com/ravindu439?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-informational?style=flat" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ravindu439&style=flat&color=blue" />
-  <img src="https://img.shields.io/badge/Workflow-Update_Profile_Metrics-brightgreen?style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20Engineer💻;RISC-V%20Pipeline%20Designer⚡;Hardware-Software%20Co-Design🔧;Safety%20Systems%20Developer🛡️&center=true&width=600&height=45&color=00d9ff">
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am a 4th-year Computer Engineering student at the University of Peradeniya (Faculty of Engineering). My academic journey has given me a solid grounding in both theoretical and practical aspects of computing. I'm passionate about exploring cutting-edge technologies, software development, computer architecture, embedded systems, and systematic debugging.  
-Currently I'm honing deeper skills in processor design, hardware/software co-design, and applying embedded intelligence to solve real-world safety and usability problems.
+## �‍🎓 About Me
 
-- 🔭 Current Focus: Embedded systems design & RISC-V microarchitecture exploration  
-- 🧠 Strengths: Hardware/software integration, structured problem-solving, rapid learning  
-- 🌱 Learning Next: Advanced verification flows & performance profiling in Verilog/C++  
-- 💬 Ask me about: Verilog, pipeline design, debugging embedded flows, full-stack prototypes  
-- 🎯 2025 Goal: Ship an open-source reusable embedded safety module + publish a tech write-up  
-- ⚡ Fun Fact: I enjoy "chasing the glitch"—I once traced a tricky timing issue by crafting a custom waveform diff approach.
+🎓 I am a **4th-Year Computer Engineering Student** at the **University of Peradeniya**, Sri Lanka.
+
+🔧 Specialized in **Embedded Systems**, **RISC-V Architecture**, and **Safety-Oriented Hardware/Software Co-Design**.
+
+📊 **Current Focus:** Advanced verification flows & performance profiling in Verilog/C++
+
+🔬 **Research Interests:** Processor design, embedded intelligence, and safety-critical systems
+
+📣 Passionate about **reliable system design**, **hardware debugging**, and **building solutions that bridge silicon-level constraints with real-world impact**.
+
+---
+
+## 💼 Experiences & Activities
+
+- 🔧 **Embedded Systems Developer** - Safety-critical helmet monitoring system
+- 💻 **RISC-V Pipeline Designer** - 5-stage RV32IM implementation with testbench verification  
+- 🌐 **Full-Stack Developer** - Dental education platform with guided workflows
+- 🎯 **Hardware/Software Integration** - Sensor-integrated safety systems
+- 📊 **Performance Analysis** - Waveform analysis and timing optimization
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🛡️ [Safe Plus – Smart Safety Helmet](https://github.com/cepdnaclk/e20-3yp-SafePlus) | Real-time hazard detection & emergency alert pipeline for industrial worker safety | Embedded C++, Sensors, Wireless, Edge Computing |
+| 💻 [RV32IM Pipeline Implementation](https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2) | 5-stage RISC-V pipeline with comprehensive testbench verification | Verilog, SystemVerilog, Computer Architecture |
+| 🦷 [Denture Design Studio](https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio) | Interactive learning platform for dental students with guided case workflows | Web Development, React, UX Design |
+| ⚡ [Hardware Debugging Tools] | Custom waveform analysis tools for timing issue detection | Python, Signal Processing, FPGA |
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Programming Languages
+- 🔧 **Verilog/SystemVerilog** - Hardware Description & Verification
+- ⚡ **C/C++** - Embedded Systems & Performance-Critical Applications  
+- 🐍 **Python** - Automation Scripts, Data Analysis, Tool Development
+- � **JavaScript/HTML/CSS** - Full-Stack Web Development
+- 🔢 **Assembly (RISC-V)** - Low-level System Programming
+
+### �️ Tools & Technologies
+- **Hardware Design:** Vivado, ModelSim, FPGA Development
+- **Embedded Systems:** PlatformIO, Arduino, MCU Programming
+- **Development:** Git, GitHub Actions, Linux, VS Code
+- **Web Technologies:** React, Node.js, Modern Web Stack
+
+### 🎯 Specializations  
+- 🔬 **Formal Verification** & Testing Methodologies
+- 📊 **Performance Profiling** & Optimization
+- 🛡️ **Safety-Critical System Design**
+- 🔧 **Hardware/Software Co-Design**
 
 ---
 
@@ -134,5 +151,5 @@ Email • LinkedIn • Portfolio (links above)
 ---
 
 <p align="center">
-  <!--TIMESTAMP-->Last auto update: 2025-08-21 06:32:30 UTC
+  <!--TIMESTAMP-->Last auto update: 2025-08-21 07:03:58 UTC
 </p>
