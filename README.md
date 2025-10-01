@@ -1,10 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Ravindu Lakshan</h1>
-<h3 align="center">🚀 Computer Engineering Undergraduate | Embedded Systems & RISC-V Pipeline Design Enthusiast</h3>
+<h3 align="center">🚀 Computer Engineering Undergraduate </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20Engineer💻;RISC-V%20Pipeline%20Designer⚡;Hardware-Software%20Co-Design🔧;Safety%20Systems%20Developer🛡️&center=true&width=600&height=45&color=00d9ff">
-</p>
+
 
 ---
 
