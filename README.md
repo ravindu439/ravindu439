@@ -60,7 +60,7 @@
 
 ## 💬 Social & Contact
 
-📧 [e20xxx@eng.pdn.ac.lk](mailto:e20xxx@eng.pdn.ac.lk)
+📧 [e20439@eng.pdn.ac.lk](mailto:e20439@eng.pdn.ac.lk)
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ravindu-lakshan/) | [GitHub](https://github.com/ravindu439)
 🏠 Sri Lanka
