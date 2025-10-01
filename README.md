@@ -37,13 +37,12 @@
 | 🛡️ [Safe Plus – Smart Safety Helmet](https://github.com/cepdnaclk/e20-3yp-SafePlus) | Real-time hazard detection & emergency alert pipeline for industrial worker safety |
 | 💻 [RV32IM Pipeline Implementation](https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2) | 5-stage RISC-V pipeline with comprehensive testbench verification |
 | 🦷 [Denture Design Studio](https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio) | Interactive learning platform for dental students with guided case workflows |
-| ⚡ Hardware Debugging Tools | Custom waveform analysis tools for timing issue detection |
 
 ---
 
 ## 🧠 Skills
 
-- 🔧 Verilog/SystemVerilog / 💻 C/C++ Programming / 🐍 Python
+- 🔧 Verilog/SystemVerilog / 💻 C/C++ Programming / 🐍 Python/ React /Java Script
 - Embedded Systems Design
 - 🏗️ Computer Architecture
 - 🧑‍🤝‍🧑 Hardware-Software Co-Design
