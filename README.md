@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ravindu Lakshan</h1>
-<h3 align="center">🚀 Computer Engineering Undergraduate & Embedded Systems Enthusiast </h3>
+<h3 align="center">🚀 Computer Engineering Undergraduate</h3>
 
 
 
@@ -31,7 +31,7 @@
 
 | Project | Focus / Description | Technical Stack |
 | :--- | :--- | :--- |
-| 🛡️ Safe Plus – Smart Safety Helmet | Real-time hazard detection & emergency alert pipeline for industrial worker safety. | **Arduino/ESP32, Verilog, MQTT, AWS IoT, MERN** |
+| 🛡️ Safe Plus – Smart Safety Helmet | Real-time hazard detection & emergency alert pipeline for industrial worker safety. | **Arduino/ESP32, MQTT, AWS IoT, MERN** |
 | 💻 RV32IM Pipeline Implementation | 5-stage **RISC-V** processor pipeline implemented in Verilog, with comprehensive testbench verification. | **Verilog HDL, GTKWave, Synopsys EDA** |
 | 🦷 Denture Design Studio | Interactive learning platform for dental students with guided case workflows and self-evaluation features. | **React.js, Next.js, Express.js, MongoDB** |
 | 📸 Real-Time Shadow Removal | Image processing system for real-time shadow removal to improve visual quality and enhance object detection. | **Python, OpenCV, TensorFlow/PyTorch** |
@@ -77,8 +77,6 @@
 </p>
 
 ---
-
-## 🔥 Fun Animations
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Code Animation" />
