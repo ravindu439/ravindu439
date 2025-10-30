@@ -1,87 +1,75 @@
-<h1 align="center">Hi there 👋, I'm Ravindu Lakshan</h1>
-<h3 align="center">🚀 Computer Engineering Undergraduate</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ravindu439.ravindu439" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravindu+Lakshan!;" />
+</h1>
 
+<h3 align="center">A Computer Engineering Undergraduate & Embedded Systems Engineer 🚀</h3>
 
----
+<br/>
 
-## 🧑‍💻 Professional Summary
+<div align="center">
+ 
+ 🔭 I'm currently working on **Embedded Systems and RISC-V Architecture**
+ 
+ 🌱 I'm currently focused on **Neuromorphic Computing, Advanced Verification Flows & Performance Profiling**
 
-🎓 I am a motivated **4th-year Computer Engineering undergraduate** at the **University of Peradeniya**, Sri Lanka.
+💬 Ask me about **Verilog, Embedded C/C++, React, or Computer Architecture [here](https://github.com/ravindu439/ravindu439/issues)**
 
-🧠 My core interests span **Computer Architecture**, **Embedded Systems**, and futuristic fields like **Neuromorphic Computing**, alongside applied proficiency in **Machine Learning**, **Computer Vision**, and **Web/Software Development**.
+⚡ Fun fact **The first computer bug was an actual moth found trapped in a relay**
 
-📣 Passionate about leveraging this technical breadth to engineer innovative solutions, I bring strong **leadership** and collaborative **teamwork** capabilities to challenging projects.
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:e20439@eng.pdn.ac.lk">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ravindu-lakshan-45bb00278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/ravindu439" target="_blank">
+     <img src="https://img.shields.io/badge/Projects-FF5722?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />   </a>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Key Technical Skills ⚒️</h2>
+<br/>
+<div align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,verilog,arduino,vscode,git,github" />
+        <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,express,mongodb,flask,mysql" /><br>
+</div>
 
-## 💼 Experience & Leadership
+<br/>
+<hr/>
 
-* **Casual Instructor** | Dept. of Computer Engineering, UoP
-    * Supervised weekly 3-hour lab sessions for the **GP106** and **CO224** courses, effectively assisting students in applying knowledge of **Python**, **assembly**, and **Verilog** languages.
-* **Vice President / Resource Person** | Hackers Club
-    * Served as **Vice President**, managing executive functions and coordinating technical skill development events.
-    * Served as a **Resource Person** for the Web Development Series, teaching topics like **HTML/CSS, JavaScript, and React.js**.
-* **Volunteer, Project Nenathambara** | Arduino Competition
-    * Coordinated with the organizing committee for this Arduino-based competition, contributing to logistics, judging, and event volunteering.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ravindu439/ravindu439/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
----
+<hr/>
 
-## 🛠️ Key Projects
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ravindu439&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ravindu439&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-| Project | Focus / Description | Technical Stack |
-| :--- | :--- | :--- |
-| 🛡️ Safe Plus – Smart Safety Helmet | Real-time hazard detection & emergency alert pipeline for industrial worker safety. | **Arduino/ESP32, MQTT, AWS IoT, MERN** |
-| 💻 RV32IM Pipeline Implementation | 5-stage **RISC-V** processor pipeline implemented in Verilog, with comprehensive testbench verification. | **Verilog HDL, GTKWave, Synopsys EDA** |
-| 🦷 Denture Design Studio | Interactive learning platform for dental students with guided case workflows and self-evaluation features. | **React.js, Next.js, Express.js, MongoDB** |
-| 📸 Real-Time Shadow Removal | Image processing system for real-time shadow removal to improve visual quality and enhance object detection. | **Python, OpenCV, TensorFlow/PyTorch** |
+<br/><br/>
 
----
+<hr/>
 
-## 🧠 Technical Skills
+<br/>
 
-| Category | Skills / Tools |
-| :--- | :--- |
-| **Languages/HDL** | C/C++, **Verilog HDL**, Python, Java, JavaScript, SQL (MySQL), HTML/CSS |
-| **Hardware/Core** | Computer Architecture, Embedded Systems Design, RISC-V, Neuromorphic Computing |
-| **Web/Frameworks** | React, Node.js, Express.js, Flask, Streamlit |
-| **AI/Tools** | TensorFlow/PyTorch, pandas, NumPy, Matplotlib, Synopsys EDA, Git, Google Cloud Platform |
+<div align="center">
+<a href='https://www.linkedin.com/in/ravindu-lakshan-45bb00278/' target='_blank'>Find me on LinkedIn! 🤝</a>
+</div>
 
----
-
-## 📜 Education & Contact
-
-* **B.Sc. Engineering (Hons.) Computer Engineering** - University of Peradeniya
-* Current GPA: 3.58/4.0
-
----
-
-## 💬 Social & Contact
-
-📧 [e20439@eng.pdn.ac.lk](mailto:e20439@eng.pdn.ac.lk)
-
-🌐 [LinkedIn](https://www.linkedin.com/in/ravindu-lakshan-45bb00278/) | [GitHub](https://github.com/ravindu439)
-🏠 Sri Lanka
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ravindu Lakshan GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/%3Fuser%3Dravindu439%26theme%3Dtokyonight%26hide_border%3Dtrue%26date%3D2025-10-30" alt="Ravindu Lakshan GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&layout=compact&theme=tokyonight&count_private=true&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Code Animation" />
-</p>
-
----
-
-> © 2025 Ravindu Lakshan | Built by me
+<br/>
