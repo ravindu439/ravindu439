@@ -31,10 +31,10 @@
 
 | Project | Focus / Description | Technical Stack |
 | :--- | :--- | :--- |
-| 🛡️ Safe Plus – Smart Safety Helmet | [cite_start]Real-time hazard detection & emergency alert pipeline for industrial worker safety[cite: 25, 27, 28]. | [cite_start]**Arduino/ESP32, Verilog, MQTT, AWS IoT, MERN** [cite: 25] |
-| 💻 RV32IM Pipeline Implementation | [cite_start]5-stage **RISC-V** processor pipeline implemented in Verilog, with comprehensive testbench verification[cite: 29, 31, 32]. | [cite_start]**Verilog HDL, GTKWave, Synopsys EDA** [cite: 29] |
-| 🦷 Denture Design Studio | [cite_start]Interactive learning platform for dental students with guided case workflows and self-evaluation features[cite: 19, 23, 24]. | [cite_start]**React.js, Next.js, Express.js, MongoDB** [cite: 19] |
-| 📸 Real-Time Shadow Removal | [cite_start]Image processing system for real-time shadow removal to improve visual quality and enhance object detection[cite: 33, 34]. | [cite_start]**Python, OpenCV, TensorFlow/PyTorch** [cite: 33] |
+| 🛡️ Safe Plus – Smart Safety Helmet | Real-time hazard detection & emergency alert pipeline for industrial worker safety. | **Arduino/ESP32, Verilog, MQTT, AWS IoT, MERN** |
+| 💻 RV32IM Pipeline Implementation | 5-stage **RISC-V** processor pipeline implemented in Verilog, with comprehensive testbench verification. | **Verilog HDL, GTKWave, Synopsys EDA** |
+| 🦷 Denture Design Studio | Interactive learning platform for dental students with guided case workflows and self-evaluation features. | **React.js, Next.js, Express.js, MongoDB** |
+| 📸 Real-Time Shadow Removal | Image processing system for real-time shadow removal to improve visual quality and enhance object detection. | **Python, OpenCV, TensorFlow/PyTorch** |
 
 ---
 
@@ -42,26 +42,26 @@
 
 | Category | Skills / Tools |
 | :--- | :--- |
-| **Languages/HDL** | [cite_start]C/C++, **Verilog HDL** [cite: 59][cite_start], Python [cite: 59][cite_start], Java [cite: 59][cite_start], JavaScript [cite: 59][cite_start], SQL (MySQL) [cite: 59][cite_start], HTML/CSS [cite: 59] |
+| **Languages/HDL** | C/C++, **Verilog HDL**, Python, Java, JavaScript, SQL (MySQL), HTML/CSS |
 | **Hardware/Core** | Computer Architecture, Embedded Systems Design, RISC-V, Neuromorphic Computing |
-| **Web/Frameworks** | [cite_start]React [cite: 60][cite_start], Node.js [cite: 60][cite_start], Express.js [cite: 60][cite_start], Flask [cite: 60][cite_start], Streamlit [cite: 60] |
-| **AI/Tools** | [cite_start]TensorFlow/PyTorch [cite: 33][cite_start], pandas [cite: 62][cite_start], NumPy [cite: 62][cite_start], Matplotlib [cite: 62][cite_start], Synopsys EDA [cite: 61][cite_start], Git [cite: 61][cite_start], Google Cloud Platform [cite: 61] |
+| **Web/Frameworks** | React, Node.js, Express.js, Flask, Streamlit |
+| **AI/Tools** | TensorFlow/PyTorch, pandas, NumPy, Matplotlib, Synopsys EDA, Git, Google Cloud Platform |
 
 ---
 
 ## 📜 Education & Contact
 
-* **B.Sc. [cite_start]Engineering (Hons.) Computer Engineering** - University of Peradeniya [cite: 11, 12]
-* [cite_start]Current GPA: 3.58/4.0 [cite: 13]
+* **B.Sc. Engineering (Hons.) Computer Engineering** - University of Peradeniya
+* Current GPA: 3.58/4.0
 
 ---
 
 ## 💬 Social & Contact
 
-[cite_start]📧 [e20439@eng.pdn.ac.lk](mailto:e20439@eng.pdn.ac.lk) [cite: 4]
+📧 [e20439@eng.pdn.ac.lk](mailto:e20439@eng.pdn.ac.lk)
 
-[cite_start]🌐 [LinkedIn](https://www.linkedin.com/in/ravindu-lakshan-45bb00278/) [cite: 4] | [cite_start][GitHub](https://github.com/ravindu439) [cite: 5]
-[cite_start]🏠 Sri Lanka [cite: 4]
+🌐 [LinkedIn](https://www.linkedin.com/in/ravindu-lakshan-45bb00278/) | [GitHub](https://github.com/ravindu439)
+🏠 Sri Lanka
 
 ---
 
