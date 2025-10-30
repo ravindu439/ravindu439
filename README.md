@@ -69,7 +69,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravindu439&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ravindu Lakshan GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=ravindu439&theme=tokyonight&hide_border=true" alt="Ravindu Lakshan GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/%3Fuser%3Dravindu439%26theme%3Dtokyonight%26hide_border%3Dtrue%26date%3D2025-10-30" alt="Ravindu Lakshan GitHub Streak" />
 </p>
 
 <p align="center">
