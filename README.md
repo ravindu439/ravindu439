@@ -14,17 +14,6 @@
 
 📣 Passionate about leveraging this technical breadth to engineer innovative solutions, I bring strong **leadership** and collaborative **teamwork** capabilities to challenging projects.
 
----
-
-## 💼 Experience & Leadership
-
-* **Casual Instructor** | Dept. of Computer Engineering, UoP
-    * Supervised weekly 3-hour lab sessions for the **GP106** and **CO224** courses, effectively assisting students in applying knowledge of **Python**, **assembly**, and **Verilog** languages.
-* **Vice President / Resource Person** | Hackers Club
-    * Served as **Vice President**, managing executive functions and coordinating technical skill development events.
-    * Served as a **Resource Person** for the Web Development Series, teaching topics like **HTML/CSS, JavaScript, and React.js**.
-* **Volunteer, Project Nenathambara** | Arduino Competition
-    * Coordinated with the organizing committee for this Arduino-based competition, contributing to logistics, judging, and event volunteering.
 
 ---
 
@@ -72,7 +61,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ravindu439&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ravindu439&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ravindu439&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu439&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 ---
 
