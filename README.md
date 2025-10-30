@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ravindu439.ravindu439" />
 <h1 align="center">Hi there 👋, I'm Ravindu Lakshan</h1>
 <h3 align="center">🚀 Computer Engineering Undergraduate & Embedded Systems Enthusiast </h3>
 
