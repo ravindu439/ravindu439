@@ -1,0 +1,14 @@
+{
+  "name": "ravindu439",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal package.json created to allow npm install.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
