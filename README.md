@@ -42,7 +42,6 @@
 ## 📜 Education & Contact
 
 * **B.Sc. Engineering (Hons.) Computer Engineering** - University of Peradeniya
-* Current GPA: 3.58/4.0
 
 ---
 
