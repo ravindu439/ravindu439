@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40">
+<defs>
+<style>
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+@keyframes travel{0%{stroke-dashoffset:900;opacity:0}10%{opacity:.8}90%{opacity:.8}100%{stroke-dashoffset:0;opacity:0}}
+.p1{animation:pulse 2s ease-in-out infinite}
+.p2{animation:pulse 2s ease-in-out infinite .4s}
+.p3{animation:pulse 2s ease-in-out infinite .8s}
+.t1{animation:travel 4s linear infinite}
+</style>
+</defs>
+<rect width="900" height="40" fill="#0a0e1a"/>
+<line x1="0" y1="20" x2="900" y2="20" stroke="#00d4ff" stroke-width=".4" opacity=".15"/>
+<line class="t1" x1="0" y1="20" x2="900" y2="20" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="30,870" opacity=".8"/>
+<circle class="p1" cx="180" cy="20" r="3" fill="#00d4ff"/>
+<circle class="p2" cx="450" cy="20" r="3" fill="#8b5cf6"/>
+<circle class="p3" cx="720" cy="20" r="3" fill="#00ff9d"/>
+<rect x="0" y="17" width="60" height="6" fill="#0a0e1a"/>
+<rect x="840" y="17" width="60" height="6" fill="#0a0e1a"/>
+</svg>
