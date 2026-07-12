@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+<defs>
+<style>
+@keyframes np{0%,100%{opacity:.45;transform:scale(1)}50%{opacity:1;transform:scale(1.25)}}
+@keyframes sf{0%{stroke-dashoffset:100;opacity:0}20%{opacity:.9}80%{opacity:.9}100%{stroke-dashoffset:0;opacity:0}}
+.na{animation:np 3s ease-in-out infinite}
+.nb{animation:np 3s ease-in-out infinite .5s}
+.nc{animation:np 3s ease-in-out infinite 1s}
+.nd{animation:np 3s ease-in-out infinite 1.5s}
+.ne{animation:np 3s ease-in-out infinite 2s}
+.nf{animation:np 3s ease-in-out infinite 2.5s}
+.ng{animation:np 3s ease-in-out infinite .25s}
+.sa{animation:sf 3s linear infinite}
+.sb{animation:sf 3s linear infinite .6s}
+.sc{animation:sf 3s linear infinite 1.2s}
+.sd{animation:sf 3s linear infinite 1.8s}
+.se{animation:sf 3s linear infinite 2.4s}
+.sf2{animation:sf 3s linear infinite .9s}
+</style>
+<filter id="gc" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="gp" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="gg" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0a0e1a"/><stop offset="100%" stop-color="#0d1a2e"/>
+</linearGradient>
+</defs>
+
+<rect width="900" height="240" fill="url(#bg)" rx="6"/>
+<rect x="1" y="1" width="898" height="238" rx="5" fill="none" stroke="#00d4ff" stroke-width=".5" opacity=".2"/>
+
+<!-- Section label -->
+<text x="450" y="20" font-family="Courier New,monospace" font-size="10" fill="#00d4ff" text-anchor="middle" opacity=".5">── NEURAL PATHWAY MAP  ·  SYNAPTIC SKILL ARCHITECTURE ──</text>
+
+<!-- ROW 1 nodes: y=80. 4 nodes across -->
+<!-- x positions: 113, 338, 563, 788 -->
+
+<!-- ROW 2 nodes: y=170. 3 nodes centered -->
+<!-- x positions: 225, 450, 675 -->
+
+<!-- === CONNECTIONS Row1 → Row2 === -->
+<g stroke="#8b5cf6" stroke-width=".7" stroke-dasharray="4,4" opacity=".25">
+<!-- ARCH → HDL, VISION -->
+<line x1="113" y1="80" x2="225" y2="170"/>
+<line x1="113" y1="80" x2="450" y2="170"/>
+<!-- EMBEDDED → HDL, VISION, CLOUD -->
+<line x1="338" y1="80" x2="225" y2="170"/>
+<line x1="338" y1="80" x2="450" y2="170"/>
+<line x1="338" y1="80" x2="675" y2="170"/>
+<!-- AI/ML → VISION, CLOUD -->
+<line x1="563" y1="80" x2="450" y2="170"/>
+<line x1="563" y1="80" x2="675" y2="170"/>
+<!-- WEB → CLOUD -->
+<line x1="788" y1="80" x2="675" y2="170"/>
+<line x1="788" y1="80" x2="450" y2="170"/>
+<!-- Row1 horizontal connections -->
+<line x1="113" y1="80" x2="338" y2="80"/>
+<line x1="338" y1="80" x2="563" y2="80"/>
+<line x1="563" y1="80" x2="788" y2="80"/>
+<!-- Row2 horizontal connections -->
+<line x1="225" y1="170" x2="450" y2="170"/>
+<line x1="450" y1="170" x2="675" y2="170"/>
+</g>
+
+<!-- === SIGNAL PULSES === -->
+<line class="sa" x1="113" y1="80" x2="338" y2="80" stroke="#00d4ff" stroke-width="2" stroke-dasharray="18,82" opacity=".85"/>
+<line class="sb" x1="338" y1="80" x2="563" y2="80" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="18,82" opacity=".85"/>
+<line class="sc" x1="563" y1="80" x2="788" y2="80" stroke="#00ff9d" stroke-width="2" stroke-dasharray="18,82" opacity=".85"/>
+<line class="sd" x1="225" y1="170" x2="450" y2="170" stroke="#00d4ff" stroke-width="2" stroke-dasharray="18,82" opacity=".85"/>
+<line class="se" x1="450" y1="170" x2="675" y2="170" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="18,82" opacity=".85"/>
+<line class="sf2" x1="338" y1="80" x2="225" y2="170" stroke="#00ff9d" stroke-width="1.5" stroke-dasharray="14,86" opacity=".7"/>
+
+<!-- === ROW 1 NODES (labels BELOW) === -->
+
+<!-- Node: ARCH -->
+<circle cx="113" cy="80" r="26" fill="#00d4ff" fill-opacity=".1" stroke="#00d4ff" stroke-width="1.2"/>
+<circle class="na" cx="113" cy="80" r="7" fill="#00d4ff" filter="url(#gc)"/>
+<text x="113" y="118" font-family="Courier New,monospace" font-size="9.5" fill="#00d4ff" text-anchor="middle" font-weight="bold" opacity=".95">ARCH</text>
+<text x="113" y="131" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" text-anchor="middle" opacity=".6">RISC-V · Pipeline</text>
+<text x="113" y="143" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" text-anchor="middle" opacity=".6">Neuromorphic</text>
+
+<!-- Node: EMBEDDED -->
+<circle cx="338" cy="80" r="26" fill="#8b5cf6" fill-opacity=".1" stroke="#8b5cf6" stroke-width="1.2"/>
+<circle class="nb" cx="338" cy="80" r="7" fill="#8b5cf6" filter="url(#gp)"/>
+<text x="338" y="118" font-family="Courier New,monospace" font-size="9.5" fill="#8b5cf6" text-anchor="middle" font-weight="bold" opacity=".95">EMBEDDED</text>
+<text x="338" y="131" font-family="Courier New,monospace" font-size="8" fill="#8b5cf6" text-anchor="middle" opacity=".6">Arduino · ESP32</text>
+<text x="338" y="143" font-family="Courier New,monospace" font-size="8" fill="#8b5cf6" text-anchor="middle" opacity=".6">Verilog HDL</text>
+
+<!-- Node: AI/ML -->
+<circle cx="563" cy="80" r="26" fill="#00ff9d" fill-opacity=".1" stroke="#00ff9d" stroke-width="1.2"/>
+<circle class="nc" cx="563" cy="80" r="7" fill="#00ff9d" filter="url(#gg)"/>
+<text x="563" y="118" font-family="Courier New,monospace" font-size="9.5" fill="#00ff9d" text-anchor="middle" font-weight="bold" opacity=".95">AI / ML</text>
+<text x="563" y="131" font-family="Courier New,monospace" font-size="8" fill="#00ff9d" text-anchor="middle" opacity=".6">TensorFlow · PyTorch</text>
+<text x="563" y="143" font-family="Courier New,monospace" font-size="8" fill="#00ff9d" text-anchor="middle" opacity=".6">pandas · NumPy</text>
+
+<!-- Node: WEB -->
+<circle cx="788" cy="80" r="26" fill="#00d4ff" fill-opacity=".1" stroke="#00d4ff" stroke-width="1.2"/>
+<circle class="nd" cx="788" cy="80" r="7" fill="#00d4ff" filter="url(#gc)"/>
+<text x="788" y="118" font-family="Courier New,monospace" font-size="9.5" fill="#00d4ff" text-anchor="middle" font-weight="bold" opacity=".95">WEB</text>
+<text x="788" y="131" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" text-anchor="middle" opacity=".6">React · Next.js</text>
+<text x="788" y="143" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" text-anchor="middle" opacity=".6">Node · Express</text>
+
+<!-- === ROW 2 NODES (labels BELOW) === -->
+
+<!-- Node: HDL -->
+<circle cx="225" cy="170" r="22" fill="#8b5cf6" fill-opacity=".1" stroke="#8b5cf6" stroke-width="1.2"/>
+<circle class="ne" cx="225" cy="170" r="6" fill="#8b5cf6" filter="url(#gp)"/>
+<text x="225" y="204" font-family="Courier New,monospace" font-size="9.5" fill="#8b5cf6" text-anchor="middle" font-weight="bold" opacity=".95">HDL</text>
+<text x="225" y="217" font-family="Courier New,monospace" font-size="8" fill="#8b5cf6" text-anchor="middle" opacity=".6">Verilog · Synopsys EDA</text>
+
+<!-- Node: VISION -->
+<circle cx="450" cy="170" r="22" fill="#00ff9d" fill-opacity=".1" stroke="#00ff9d" stroke-width="1.2"/>
+<circle class="nf" cx="450" cy="170" r="6" fill="#00ff9d" filter="url(#gg)"/>
+<text x="450" y="204" font-family="Courier New,monospace" font-size="9.5" fill="#00ff9d" text-anchor="middle" font-weight="bold" opacity=".95">VISION</text>
+<text x="450" y="217" font-family="Courier New,monospace" font-size="8" fill="#00ff9d" text-anchor="middle" opacity=".6">OpenCV · CNN · Shadow</text>
+
+<!-- Node: CLOUD/SYSTEMS -->
+<circle cx="675" cy="170" r="22" fill="#00d4ff" fill-opacity=".1" stroke="#00d4ff" stroke-width="1.2"/>
+<circle class="ng" cx="675" cy="170" r="6" fill="#00d4ff" filter="url(#gc)"/>
+<text x="675" y="204" font-family="Courier New,monospace" font-size="9.5" fill="#00d4ff" text-anchor="middle" font-weight="bold" opacity=".95">CLOUD</text>
+<text x="675" y="217" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" text-anchor="middle" opacity=".6">AWS IoT · GCP · Docker</text>
+</svg>
