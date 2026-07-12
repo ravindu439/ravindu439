@@ -19,25 +19,21 @@
 <img src="./assets/divider.svg" width="100%"/>
 
 ```
-root@neural-node:~$ cat /proc/user/identity
+root@ravindu:~$ whoami
 
 ╔══════════════════════════════════════════════════════════════════════╗
-║  USER      : Ravindu Lakshan                                         ║
-║  NODE-ID   : e20439 @ University of Peradeniya, Sri Lanka            ║
-║  YEAR      : 4th Year — B.Sc. Engineering (Hons.) Computer Eng.      ║
-║  CORE-INT  : Neuromorphic Computing | Computer Architecture          ║
-║  SEC-INT   : Embedded Systems | Machine Learning | Computer Vision   ║
-║  STATUS    : Building tomorrow's neural silicon today                ║
+║  Name      : Ravindu Lakshan                                         ║
+║  University: University of Peradeniya, Sri Lanka                     ║
+║  Degree    : B.Sc. Engineering (Hons.) — Computer Engineering        ║
+║  Interests : Neuromorphic Computing · Computer Architecture · AI     ║
+║  Also into : Embedded Systems · Computer Vision · Web Development    ║
+║  Now       : Final year, building things that push boundaries        ║
 ╚══════════════════════════════════════════════════════════════════════╝
-
-[SYS]: Neuromorphic systems simulate biological neural processing in
-       silicon — bridging the gap between computational efficiency and
-       brain-like intelligence. That's my frontier.
 ```
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `⬡ NEURAL PATHWAY MAP — Synaptic Skill Architecture`
+## `⬡ Skills & Technologies`
 
 <div align="center">
   <img src="./assets/skills-neural.svg" width="100%" alt="Neural Skill Map"/>
@@ -45,44 +41,44 @@ root@neural-node:~$ cat /proc/user/identity
 
 <div align="center">
 
-| Domain | Technologies |
+| Area | Tools & Technologies |
 |:---|:---|
-| `⬡ ARCH` | C/C++, RISC-V, Computer Architecture, Neuromorphic Computing, Synopsys EDA |
-| `⬡ EMBEDDED` | Arduino, ESP32, MQTT, AWS IoT, Embedded Systems Design |
-| `⬡ HDL` | Verilog HDL, FPGA, GTKWave, 5-stage Pipeline Design |
-| `⬡ AI/ML` | TensorFlow, PyTorch, pandas, NumPy, Matplotlib, Scikit-learn |
-| `⬡ VISION` | OpenCV, CNN, Real-time Shadow Removal, Object Detection |
-| `⬡ WEB` | React.js, Next.js, Node.js, Express.js, Flask, Streamlit, MongoDB, SQL |
-| `⬡ CLOUD` | Google Cloud Platform, AWS IoT, Docker, Git |
+| `⬡ Architecture` | C/C++, RISC-V, Computer Architecture, Neuromorphic Computing, Synopsys EDA |
+| `⬡ Embedded` | Arduino, ESP32, MQTT, AWS IoT, Embedded Systems |
+| `⬡ Hardware (HDL)` | Verilog HDL, FPGA, GTKWave, 5-stage Pipeline Design |
+| `⬡ AI / ML` | TensorFlow, PyTorch, pandas, NumPy, Matplotlib, Scikit-learn |
+| `⬡ Computer Vision` | OpenCV, CNN, Shadow Removal, Object Detection |
+| `⬡ Web & Backend` | JavaScript, Go, React.js, Next.js, Node.js, Express.js, Flask, MongoDB, SQL |
+| `⬡ Cloud & DevOps` | Google Cloud Platform, AWS IoT, Docker, Git |
 
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `⬡ ACTIVE MISSIONS — Engineering Operations Log`
+## `⬡ Featured Projects`
 
 <table>
 <tr>
 <td width="50%">
 
-**`◈ MISSION-001 · SAFE PLUS`**
+**`◈ Safe Plus — Smart Safety Helmet`**
 ```
 STATUS  : ██████████ COMPLETE
-PRIORITY: CRITICAL — Industrial Safety
+FOCUS   : Industrial Safety
 ```
-> Real-time hazard detection & emergency alert pipeline for industrial worker safety. Sensor fusion with edge AI decision-making.
+> Real-time hazard detection & emergency alert pipeline for industrial workers. Sensor fusion with edge AI decision-making.
 
 `Arduino/ESP32` `Verilog` `MQTT` `AWS IoT` `MERN`
 
 </td>
 <td width="50%">
 
-**`◈ MISSION-002 · RISC-V PIPELINE`**
+**`◈ RISC-V RV32IM Pipeline Processor`**
 ```
 STATUS  : ██████████ COMPLETE
-PRIORITY: HIGH — Silicon Architecture
+FOCUS   : Computer Architecture
 ```
-> Full 5-stage RISC-V RV32IM processor implementation in Verilog with comprehensive testbench verification & EDA synthesis.
+> Full 5-stage RISC-V RV32IM processor in Verilog with comprehensive testbench verification & EDA synthesis.
 
 `Verilog HDL` `GTKWave` `Synopsys EDA` `RISC-V`
 
@@ -91,24 +87,24 @@ PRIORITY: HIGH — Silicon Architecture
 <tr>
 <td width="50%">
 
-**`◈ MISSION-003 · DENTURE STUDIO`**
+**`◈ Denture Design Studio`**
 ```
 STATUS  : ██████████ COMPLETE
-PRIORITY: MED — Healthcare Tech
+FOCUS   : Healthcare Tech
 ```
-> Interactive web platform for dental students with guided case workflows, self-evaluation engine, and role-based access.
+> Interactive learning platform for dental students with guided case workflows, self-evaluation engine, and role-based access.
 
 `React.js` `Next.js` `Express.js` `MongoDB`
 
 </td>
 <td width="50%">
 
-**`◈ MISSION-004 · SHADOW REMOVAL`**
+**`◈ Real-Time Shadow Removal`**
 ```
 STATUS  : ██████████ COMPLETE
-PRIORITY: HIGH — Computer Vision
+FOCUS   : Computer Vision
 ```
-> Real-time shadow removal system using deep learning to enhance visual quality and improve downstream object detection accuracy.
+> Deep learning system for real-time shadow removal to enhance visual quality and improve object detection accuracy.
 
 `Python` `OpenCV` `TensorFlow` `PyTorch`
 
@@ -118,7 +114,7 @@ PRIORITY: HIGH — Computer Vision
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `⬡ SIGNAL TELEMETRY — GitHub Activity Readout`
+## `⬡ GitHub Stats`
 
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ravindu439&count_private=true&theme=transparent&border_radius=6&border=00d4ff&ring=8b5cf6&fire=00ff9d&currStreakLabel=00d4ff&sideLabels=8b5cf6&dates=8b5cf6&stroke=0d1117" alt="Streak Stats"/>
@@ -127,12 +123,12 @@ PRIORITY: HIGH — Computer Vision
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ravindu439&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=6&border_color=8b5cf6&title_color=8b5cf6&text_color=e6edf3&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ravindu439&langs_count=10&layout=compact&theme=transparent&border_radius=6&border_color=8b5cf6&title_color=8b5cf6&text_color=e6edf3&exclude_repo=github-readme-stats&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `⬡ SYNAPTIC ACTIVITY — Contribution Pulse`
+## `⬡ Contributions`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ravindu439/ravindu439/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
@@ -140,7 +136,7 @@ PRIORITY: HIGH — Computer Vision
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `⬡ ESTABLISH LINK — Open a Synaptic Channel`
+## `⬡ Let's Connect`
 
 <div align="center">
 
@@ -149,10 +145,9 @@ PRIORITY: HIGH — Computer Vision
 [![GitHub](https://img.shields.io/badge/GitHub-ravindu439-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ravindu439)
 
 ```
-[SYS]: All synaptic channels monitored. Signal latency: minimal.
-[SYS]: Node location: Sri Lanka 🇱🇰
-[SYS]: Neural interface uptime: 99.9%
-root@neural-node:~$ █
+// Based in Sri Lanka 🇱🇰
+// Open to collaborations, research & cool projects
+root@ravindu:~$ █
 ```
 
 </div>
