@@ -55,64 +55,6 @@ root@ravindu:~$ whoami
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `⬡ Featured Projects`
-
-<table>
-<tr>
-<td width="50%">
-
-**`◈ Safe Plus — Smart Safety Helmet`**
-```
-STATUS  : ██████████ COMPLETE
-FOCUS   : Industrial Safety
-```
-> Real-time hazard detection & emergency alert pipeline for industrial workers. Sensor fusion with edge AI decision-making.
-
-`Arduino/ESP32` `Verilog` `MQTT` `AWS IoT` `MERN`
-
-</td>
-<td width="50%">
-
-**`◈ RISC-V RV32IM Pipeline Processor`**
-```
-STATUS  : ██████████ COMPLETE
-FOCUS   : Computer Architecture
-```
-> Full 5-stage RISC-V RV32IM processor in Verilog with comprehensive testbench verification & EDA synthesis.
-
-`Verilog HDL` `GTKWave` `Synopsys EDA` `RISC-V`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**`◈ Denture Design Studio`**
-```
-STATUS  : ██████████ COMPLETE
-FOCUS   : Healthcare Tech
-```
-> Interactive learning platform for dental students with guided case workflows, self-evaluation engine, and role-based access.
-
-`React.js` `Next.js` `Express.js` `MongoDB`
-
-</td>
-<td width="50%">
-
-**`◈ Real-Time Shadow Removal`**
-```
-STATUS  : ██████████ COMPLETE
-FOCUS   : Computer Vision
-```
-> Deep learning system for real-time shadow removal to enhance visual quality and improve object detection accuracy.
-
-`Python` `OpenCV` `TensorFlow` `PyTorch`
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%"/>
 
 ## `⬡ GitHub Stats`
 
